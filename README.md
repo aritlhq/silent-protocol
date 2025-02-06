@@ -13,8 +13,8 @@ Node.js implementation to monitor the entry queue. Instead of having your device
 ## Installation
 1. Clone this repository
 ```
-git clone https://github.com/aritlhq/story-protocol.git
-cd story-protocol
+git clone https://github.com/aritlhq/silent-protocol.git
+cd silent-protocol
 ```
 
 2. Install dependencies:
